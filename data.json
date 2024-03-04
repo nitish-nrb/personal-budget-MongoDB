@@ -1,0 +1,35 @@
+{"myBudget":
+    [
+    {
+        "title": "Eat Out",
+        "budget": 25,
+        "color":"#ffcd56"
+    },
+    {
+        "title": "Rent",
+        "budget": 275,
+        "color":"#ff6384"
+    },
+    {
+        "title": "Groceries",
+        "budget": 110,
+        "color":"#36a2eb"
+    },
+    {
+        "title" : "Transportation",
+        "budget": 30,
+        "color":"#fd6b19"
+    },
+    {
+        "title" : "Gym",
+        "budget": 40,
+        "color":"#33FF57"
+    },
+    {
+        "title" : "Entertainment",
+        "budget": 60,
+        "color":"33FFFF"
+    }
+   
+]
+}
